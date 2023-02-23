@@ -1,0 +1,5 @@
+.idea/
+venv/
+*.pyc
+output/
+.DS_Store
